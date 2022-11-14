@@ -1,0 +1,23 @@
+{
+  "name": "testunitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmchetos/TestUnitario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmchetos/TestUnitario/issues"
+  },
+  "homepage": "https://github.com/Lmchetos/TestUnitario#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
